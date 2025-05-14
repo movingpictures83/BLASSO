@@ -1,0 +1,2 @@
+Prefix plugins/BLASSO/example/
+Plugin BLASSO inputfile parameters.train.txt outputfile output.rds
